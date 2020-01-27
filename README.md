@@ -1,2 +1,2 @@
 # tensorflow_study_notes
-人工智能实践课上：Tensorflow笔记上的代码
+人工智能实践课：Tensorflow笔记上的代码
